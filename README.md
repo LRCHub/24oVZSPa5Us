@@ -1,80 +1,36 @@
-# Stray Kids – Christmas Love
+# Keisuke Kuwata – 白い恋人達
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-Red and white,
-we’re underneath the
-Christmas lights
-Hold me tight,
-I'll never leave your side
-(Stray Kids)
-Oh, oh, oh
-赤くなる顔, yeah
-寒さじゃないよ, yeah
-白く光る君は starlight
-いらないギフト, yeah
-側いるだけで, yeah
-いつでもどこでも
-it's Christmas, yeah, yeah
-人混みの中でも
-君だけ見てるよ
-僕たちの場所は
-under the mistletoe
-Fall in love,
-雪の音 花咲く
-It's all about love,
-あかとしろのせかい
-雪の中 手握る,
-we'll be making pink
-Yeah, I love you,
-yes, I love you
-時が止まるみたい
-僕たちだけ見つめてる
-Christmas Tree
-耳元に感じる君の
-one-four-three
-Yeah, I love you,
-yes, I love you
-ピンク色染まる, I love you
-君となら I just know
-吹雪いてもね we play in the snow
-心配いらない let it go
-今捧げよう, 締め括ろう
-With each other we glow, oh, oh
-One of a kind,
-yeah, you make me feel alive
-You're the light of the night,
-I just love it when you shine
-Stars in the sky,
-yeah, they glisten in your eyes
-Feeling red 'cause I'm shy,
-you're my angel in white
-人混みの中でも
-君だけ見てるよ
-僕たちの場所は
-under the mistletoe
-Fall in love,
-雪の音 花咲く
-It's all about love,
-あかとしろのせかい
-雪の中 手握る,
-we'll be making pink
-Yeah, I love you,
-yes, I love you
-時が止まるみたい
-僕たちだけ見つめてる
-Christmas Tree
-耳元に感じる君の
-one-four-three
-Yeah, I love you,
-yes, I love you
-ピンク色染まる, I love you
-Underneath the mistletoe
-We're dancing in the night
-Face to face,
-I love it when you smile,
-oh, woah
-You make this Christmas,
-red and white
+夜に向かって雪が降り積もると
+悲しみがそっと胸にこみ上げる
+涙で心の灯を消して
+
+通り過ぎてゆく季節を見ていた
+外はため息さえ凍りついて
+冬枯れの街路樹に風が泣く
+あの赤レンガの停車場で
+二度と帰らない誰かを待ってる, Woo...
+今宵 涙こらえて奏でる愛のSerenade
+今も忘れない恋の歌
+雪よもう一度だけこのときめきをCelebrate
+ひとり泣き濡れた夜にWhite Love
+聖なる鐘の音が響く頃に
+最果ての街並みを夢に見る
+天使が空から降りて来て
+春が来る前に微笑みをくれた, Woo...
+心折れないように負けないようにLoneliness
+白い恋人が待っている
+だから夢と希望を胸に抱いてForeverness
+辛い毎日がやがてWhite Love
+今宵 涙こらえて奏でる愛のSerenade
+今も忘れない恋の歌
+せめてもう一度だけこの出発をCelebrate
+ひとり泣き濡れた冬にWhite Love
+Ah, ah,...
+永遠のWhite Love
+My Love
+ただ逢いたくて もうせつなくて
+恋しくて... 涙
 ```
