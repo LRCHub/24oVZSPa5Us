@@ -1,104 +1,176 @@
 {
   "version": 1,
-  "base_track": "Christmas Love",
-  "base_artist": "Stray Kids",
-  "createdAt": "2025-12-25T01:01:49.062142Z",
+  "base_track": "白い恋人達",
+  "base_artist": "Keisuke Kuwata",
+  "createdAt": "2025-12-25T01:02:07.755735Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Christmas Love",
-      "artist": "Billy Idol",
+      "title": "白い恋人達",
+      "artist": "高木 一江",
       "has_synced": false,
-      "path": "select/01_Christmas_Love_Billy_Idol.txt"
+      "path": "select/01_白い恋人達_高木_一江.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Christmas Love",
-      "artist": "Justin Bieber",
-      "has_synced": true,
-      "path": "select/02_Christmas_Love_Justin_Bieber.lrc"
+      "title": "白い恋人達",
+      "artist": "高木一江",
+      "has_synced": false,
+      "path": "select/02_白い恋人達_高木一江.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Christmas Love (Album Version)",
-      "artist": "Justin Bieber",
+      "title": "白い恋人達",
+      "artist": "川畑 要",
       "has_synced": true,
-      "path": "select/03_Christmas_Love_(Album_Version)_Justin_Bieber.lrc"
+      "path": "select/03_白い恋人達_川畑_要.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "A Christmas Love Song",
-      "artist": "Barbra Streisand",
-      "has_synced": true,
-      "path": "select/04_A_Christmas_Love_Song_Barbra_Streisand.lrc"
+      "title": "白い恋人達",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/04_白い恋人達_平井_堅.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "A Christmas Love Song",
-      "artist": "The Manhattan Transfer",
-      "has_synced": false,
-      "path": "select/05_A_Christmas_Love_Song_The_Manhattan_Transfer.txt"
+      "title": "白い恋人達 - Shiroi Koibitotachi",
+      "artist": "Keisuke Kuwata",
+      "has_synced": true,
+      "path": "select/05_白い恋人達_-_Shiroi_Koibitotachi_Keisuke_Kuwata.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "A Christmas Love Song",
-      "artist": "Barbra Streisand",
-      "has_synced": false,
-      "path": "select/06_A_Christmas_Love_Song_Barbra_Streisand.txt"
+      "title": "白い恋人達",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/06_白い恋人達_Crystal_Kay.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Christmas Love",
-      "artist": "Justin Bieber",
+      "title": "白い恋人達",
+      "artist": "Kay, Crystal",
       "has_synced": true,
-      "path": "select/07_Christmas_Love_Justin_Bieber.lrc"
+      "path": "select/07_白い恋人達_Kay,_Crystal.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Christmas Love Song, A",
-      "artist": "Manhattan Transfer",
+      "title": "白い恋人達",
+      "artist": "BENI",
       "has_synced": false,
-      "path": "select/08_Christmas_Love_Song,_A_Manhattan_Transfer.txt"
+      "path": "select/08_白い恋人達_BENI.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "A Little Bit Of Christmas Love",
-      "artist": "Eric Clapton",
-      "has_synced": true,
-      "path": "select/09_A_Little_Bit_Of_Christmas_Love_Eric_Clapton.lrc"
+      "title": "白い恋人達",
+      "artist": "平井堅",
+      "has_synced": false,
+      "path": "select/09_白い恋人達_平井堅.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Christmas Love",
-      "artist": "Justin Bieber",
+      "title": "白い恋人達",
+      "artist": "Asako Toki",
       "has_synced": true,
-      "path": "select/10_Christmas_Love_Justin_Bieber.lrc"
+      "path": "select/10_白い恋人達_Asako_Toki.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Christmas Love (Album Version)",
-      "artist": "Justin Bieber",
-      "has_synced": true,
-      "path": "select/11_Christmas_Love_(Album_Version)_Justin_Bieber.lrc"
+      "title": "白い恋人達",
+      "artist": "Beni Arashiro",
+      "has_synced": false,
+      "path": "select/11_白い恋人達_Beni_Arashiro.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Christmas Love",
-      "artist": "Stray Kids",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
       "has_synced": false,
-      "path": "select/pl_01_Christmas_Love_Stray_Kids.txt"
+      "path": "select/pl_01_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_02_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_03_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_04_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_05_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_06_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_07_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_08_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_09_白い恋人達_桑田_佳祐.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "白い恋人達",
+      "artist": "桑田 佳祐",
+      "has_synced": false,
+      "path": "select/pl_10_白い恋人達_桑田_佳祐.txt"
     }
   ]
 }
